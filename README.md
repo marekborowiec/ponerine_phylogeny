@@ -1,5 +1,9 @@
 # Scripts for dating analyses
 
+This repository contains custom scripts used for divergence dating analyses from the following publication:
+
+`Doré M., Borowiec M.L., Branstetter M.G., Camacho G.P., Fisher B.L., Longino J.T., Ward P.S., & Blaimer B.B. (2025) Evolutionary history of ponerine ants highlights how the timing of dispersal events shapes modern biodiversity. Nature Communications. DOI: 10.1038/s41467-025-63709-3.`
+
 ### Scripts
 `check_fossils.R` Script to verify that fossil calibrations are valid
 
